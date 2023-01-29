@@ -1,0 +1,16 @@
+
+<list>
+  <student>
+    <name lang="en">
+      Ivan Ivanov
+    </name>
+    <age>35</age>
+    <prof>teacher</prof>
+  </student>
+    <name lang="ru">
+      Петр Петров
+    </name>
+    <age>58</age>
+    <prof>driver</prof>
+  </student>
+</list>
